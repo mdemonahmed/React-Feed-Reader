@@ -18,6 +18,9 @@ Step:5 - Run the Feed Reader App using this command at port:
 
 Step:5 - login in feed reader using an existing user or you can register user.
 
+   Username: test
+   Password: 12345
+
 <img src="feed-reader-one.png">
 </br>
 <img src="feed-reader-login.png">
